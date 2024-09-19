@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://cdn.sortiraparis.com/images/1001/66131/855789-harry-potter-hogwarts-legacy-se-devoile-dans-sa-bande-annonce-de-lancement.jpg'); 
+    background-size: cover; /
+    background-repeat:no-repeat; 
+    background-position: center; 
+    color: white;
+    font-family: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Didot", serif
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
